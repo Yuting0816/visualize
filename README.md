@@ -8,6 +8,14 @@ Kickstarter 提供了媒合「有創意、有想法，但缺乏資金」與「�
 
 ### kaggle資料集
  >資料來源
+ 
  [Kickstarter Projects](https://www.kaggle.com/kemical/kickstarter-projects#ks-projects-201801.csv)
 
 > 資料欄位
+
+ID -專案ID
+Name –專案名稱
+Main_category –專案類別
+Category –分類
+Currency -貨幣
+Goal -專案目標
