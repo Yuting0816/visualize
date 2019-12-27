@@ -7,4 +7,7 @@ Kickstarter 提供了媒合「有創意、有想法，但缺乏資金」與「�
 例如：如果一個專案的目標是500美元，即使它募集到了499美元，該專案也不會成功。
 
 ### kaggle資料集
+ >資料來源
  [Kickstarter Projects](https://www.kaggle.com/kemical/kickstarter-projects#ks-projects-201801.csv)
+
+> 資料欄位
