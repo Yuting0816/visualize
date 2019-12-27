@@ -15,15 +15,15 @@ Kickstarter 提供了媒合「有創意、有想法，但缺乏資金」與「�
 
 + ID -專案ID
 + Name -專案名稱
-+ Main_category -專案類別
 + Category -分類
++ Main_category -專案類別
 + Currency -貨幣
++ Deadline -最後期限
 + Goal -專案目標
 + Launched -專案上傳時間
-+ Deadline -最後期限
 + Pledged -募集總額
++ Status -最終狀態
 + Backers -支持者
 + Country -國家
-+ Status -最終狀態
 
 ![image](https://github.com/Yuting0816/visualize/blob/master/%E5%9C%96%E7%89%873.png)
