@@ -36,6 +36,8 @@ Kickstarter 提供了媒合「有創意、有想法，但缺乏資金」與「�
 募資結果分為2種:成功及不成功，不成功包含失敗、取消、未知等等。
 
 ##### 各類型專案比例
+![image](https://github.com/Yuting0816/visualize/blob/master/1577605818924.jpg)
+
 1. 影視 專案數量63585
 
 2. 音樂 專案數量51917
@@ -65,8 +67,6 @@ Kickstarter 提供了媒合「有創意、有想法，但缺乏資金」與「�
 14. 新聞 專案數量4755
 
 15. 舞蹈 專案數量3767
-
-![image](https://github.com/Yuting0816/visualize/blob/master/1577605818924.jpg)
 
 ##### 各類型專案募資成功率
 1. 舞蹈 專案成功數2338
