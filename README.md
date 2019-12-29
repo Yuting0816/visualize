@@ -69,6 +69,8 @@ Kickstarter 提供了媒合「有創意、有想法，但缺乏資金」與「�
 15. 舞蹈 專案數量3767
 
 ##### 各專案類型募資成功率
+![image](https://github.com/Yuting0816/visualize/blob/master/1577608076589.jpg)
+
 1. 舞蹈 專案成功數2338
 
 2. 劇場 專案成功數6534
