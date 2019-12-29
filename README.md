@@ -104,9 +104,13 @@ Kickstarter 提供了媒合「有創意、有想法，但缺乏資金」與「�
 ##### 分析結果
 
 
-#### 分析2:各國家的募資偏好
+#### 分析2:各國的募資偏好
 ##### 說明
 資料集中的國家包含美國(US)、奧地利(AT)、澳大利亞(AU)、比利時(BE)、加拿大(CA)、瑞士(CH)、德國(DE)、丹麥(DK)、西班牙(ES)、法國(FR)、英國(GB)、香港(HK)、愛爾蘭(IE)、義大利(IT)、日本(JP)、盧森堡(LU)、墨西哥(MX)、荷蘭(NL)、挪威(NO)、紐西蘭(NZ)、瑞典(SE)、新加坡(SG)。
+
+##### 各國專案數比例
+![image](https://github.com/Yuting0816/visualize/blob/master/%E4%B8%8B%E8%BC%89.png)
+
 https://chartsfactory.com/HhAqBE
 
 
