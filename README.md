@@ -111,7 +111,12 @@ Kickstarter 提供了媒合「有創意、有想法，但缺乏資金」與「�
 ##### 各國專案數比例
 ![image](https://github.com/Yuting0816/visualize/blob/master/%E4%B8%8B%E8%BC%89.png)
 
+##### 各國投稿數TOP3的專案類型
+1. 美國
 
++ 影視 17.7436%
++ 音樂 14.7756%
++ 
 
 ![image](https://github.com/Yuting0816/visualize/blob/master/%E5%90%84%E5%9C%8B%E5%AE%B6%E7%9A%84%E5%8B%9F%E8%B3%87%E5%81%8F%E5%A5%BD%20(3).png)
 
