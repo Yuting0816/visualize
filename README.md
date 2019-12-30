@@ -229,7 +229,7 @@ Kickstarter 提供了媒合「有創意、有想法，但缺乏資金」與「�
 + 科技 14.5946%
 
 
-![image](https://github.com/Yuting0816/visualize/blob/master/%E5%90%84%E5%9C%8B%E5%AE%B6%E7%9A%84%E5%8B%9F%E8%B3%87%E5%81%8F%E5%A5%BD%20(3).png)
+![image](https://github.com/Yuting0816/visualize/blob/master/%E5%90%84%E5%9C%8B%E5%AE%B6%E7%9A%84%E5%8B%9F%E8%B3%87%E5%81%8F%E5%A5%BD.png)
 
 ##### 分析結果
 1. 並不是募資成功率越高的專案類型投稿的人數就越多。
