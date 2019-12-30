@@ -236,6 +236,6 @@ Kickstarter 提供了媒合「有創意、有想法，但缺乏資金」與「�
 2. 美國專案數量遠大於其他國家，故美國的募資偏好會對專案類型的分布造成極大影響。
 3. 部分國家專案數量較少，所以無法明確得知該國偏好。
 
-
+### Infographics資訊圖表
 ![image](https://github.com/Yuting0816/visualize/blob/master/Kickstarter%20%E5%8B%9F%E8%B3%87%E5%B9%B3%E5%8F%B0.png)
 
